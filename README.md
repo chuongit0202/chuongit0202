@@ -3,13 +3,13 @@
 My name is Chuong Dang. I am a Bachelor of Information Technology, majoring in Software Technology. I am interested in the following topics: Software Testing and Website. Reinforcement learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dang-thanh-chuong/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/chuongit0202/) [![Youtube](https://github.com/chuongit0202/introduction/blob/main/FB.png) Facebook](https://www.facebook.com/chuong647/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dang-thanh-chuong/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/chuongit0202/) [![Facebook](https://github.com/chuongit0202/introduction/blob/main/FB.png) Facebook](https://www.facebook.com/chuong647/)
 
 
 
-![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Chuong's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uvipen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/uvipen/QuickDraw/">
+<a href="https://github.com/chuongit0202/QuickDraw/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=uvipen&repo=QuickDraw&theme=radical" />
 </a>    
