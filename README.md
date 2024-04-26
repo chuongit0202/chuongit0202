@@ -3,7 +3,7 @@
 My name is Chuong Dang. I am a Bachelor of Information Technology, majoring in Software Technology. I am interested in the following topics: Software Testing and Website. Reinforcement learning.<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dang-thanh-chuong/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/chuongit0202/) [![Youtube](https://github.com/uvipen/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/dang-thanh-chuong/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/chuongit0202/) [![Youtube](https://github.com/chuongit0202/introduction/blob/main/FB.png) Facebook](https://www.facebook.com/chuong647/)
 
 
 
